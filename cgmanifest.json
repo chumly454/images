@@ -2,7 +2,7 @@
     "Registrations": [
         {
             "Component": {
-                "Type": "linux",
+                "Type": "android",
                 "Linux": {
                     "Name": "yarn",
                     "Version": "1.22.22-1",
